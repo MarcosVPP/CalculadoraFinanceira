@@ -1,0 +1,7 @@
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\bin\Release\CalculadoraFinanceira.exe.config
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\bin\Release\CalculadoraFinanceira.exe
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\bin\Release\CalculadoraFinanceira.pdb
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\obj\Release\CalculadoraFinanceira.csprojAssemblyReference.cache
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\obj\Release\CalculadoraFinanceira.csproj.CoreCompileInputs.cache
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\obj\Release\CalculadoraFinanceira.exe
+F:\GitProjetos\CalculadoraFinanceira\CalculadoraFinanceira\CalculadoraFinanceira\obj\Release\CalculadoraFinanceira.pdb
